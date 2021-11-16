@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/menu.unity
+    guid: 1cbfbcc108df40c49a37348e9a867050
+  - enabled: 1
+    path: "Assets/Scenes/TP_Interm\xE9diaire.unity"
+    guid: ae39fc265769aca4293b627ee9594b37
+  - enabled: 1
+    path: Assets/Scenes/IA.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  m_configObjects: {}
